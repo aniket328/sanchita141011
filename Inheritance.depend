@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1570875541 source:c:\users\a ranjan\desktop\c-cpp tut\cpp\inheritance\main.cpp
+	"Mother.h"
+	<iostream>
+	"Daughter.h"
+
+1570875558 c:\users\a ranjan\desktop\c-cpp tut\cpp\inheritance\include\mother.h
+
+1570875611 c:\users\a ranjan\desktop\c-cpp tut\cpp\inheritance\include\daughter.h
+
+1570875541 source:c:\users\a ranjan\desktop\c-cpp tut\cpp\inheritance\src\daughter.cpp
+	"Mother.h"
+	<iostream>
+	"Daughter.h"
+
+1570875541 source:c:\users\a ranjan\desktop\c-cpp tut\cpp\inheritance\src\mother.cpp
+	"Mother.h"
+	<iostream>
+	"Daughter.h"
+
