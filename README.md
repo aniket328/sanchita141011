@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+## Contributing Guidelines:
+Create a Pull Request of any CP question in your preferred language.
+
 <!--
 **sanchita141011/sanchita141011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
